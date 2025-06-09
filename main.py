@@ -4,7 +4,7 @@ import random
 import pyperclip
 import json
 
-Email="_"
+Email="Your_Email"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate():
